@@ -1,5 +1,3 @@
-function doSomethign(thing) {
-  console.log(thing);
+function sayHello() {
+  console.log("Hello!");
 }
-
-doSomethign('anything')
