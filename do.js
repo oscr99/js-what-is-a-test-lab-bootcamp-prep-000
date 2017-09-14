@@ -1,8 +1,3 @@
-function sayHelloTo(firstName) {
-  console.log(`Hello, ${firstName}!`);
+function sayHelloToIsabel() {
+  console.log(`Hello, Isabel`);
 }
-
-sayHelloTo('Isabel')
-sayHelloTo("Jane")
-sayHelloTo("R2-D2")
-sayHelloTo(1)
